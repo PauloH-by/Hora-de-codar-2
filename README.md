@@ -1,4 +1,4 @@
-# Hora-de-codar-2
+# Hora-de-codar-2 <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
 
 # 1 - Faça um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou zero.
 # 2. Faça um programa para ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.
